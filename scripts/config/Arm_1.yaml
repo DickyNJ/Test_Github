@@ -1,0 +1,12 @@
+# config.yaml
+ID: 1 # 机械臂ID
+depth: 220 # 镜头距离物块的深度
+# Arm_Location: (0, 0, 0)
+offset_change: 5 # 机械臂基偏移量
+offset_real_right: 13  # 机械臂右偏移量
+offset_real_left: 20 # 机械臂左偏移量
+wait_time: 12 # 等待时间
+error_range: 12 # 坐标误差范围
+error_range_width: 8 # 宽度误差范围
+num_judgments: 5 # 判断次数
+# p_mould: [90, 110, 0, 0, 90]
